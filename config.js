@@ -48,7 +48,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay!",
+        title: "✨",
         message: "Yay!! I'm the luckiest person in the world!💖",
         emojis: "💖❤️💕"  // These will bounce around
     },
@@ -86,3 +86,4 @@ const CONFIG = {
 
 // Don't modify anything below this line unless you know what you're doing
 window.VALENTINE_CONFIG = CONFIG; 
+
